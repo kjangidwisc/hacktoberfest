@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Krishna Jangid](https://https://github.com/kjangidwisc)
+- Place: Madison, WI
+- Bio: Backend Developer
+- Github: [Krishna Jangid](https://https://github.com/kjangidwisc)
